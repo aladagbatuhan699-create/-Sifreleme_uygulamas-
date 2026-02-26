@@ -1,2 +1,2 @@
-# -ifreleme_uygulamas-
-our school project about encrypted app
+# -Sifreleme_uygulamas-
+our school project final form
